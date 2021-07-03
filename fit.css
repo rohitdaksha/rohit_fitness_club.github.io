@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Baloo Bhai 2', cursive;
+    background-image: url("image/abs-1850926_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 1800px;
+   
+    
+}
